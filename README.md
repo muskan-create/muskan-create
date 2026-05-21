@@ -23,6 +23,9 @@ Currently, I’m focused on:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourgmail@gmail.com)
 
+[![Codolio](https://img.shields.io/badge/Codolio-00C4CC?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codolio.com/profile/muskanprajapati__)
+
+
 ---
 
 
