@@ -13,5 +13,24 @@ Currently, I’m focused on:
 * Exploring AI, backend development, and modern technologies
 * Improving communication and problem-solving abilities
 * Preparing for internships and real-world development opportunities
+  ## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_ID)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/YOUR_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourgmail@gmail.com)
+
+---
+
+
+## ⚒️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,git,github" />
+</p>
+
 
 
