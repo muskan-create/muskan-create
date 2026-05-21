@@ -28,11 +28,6 @@ Currently, I’m focused on:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,git,github" />
 </p>
-## 📊 GitHub Stats
-
-![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan-create\&show_icons=true\&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=muskan-create\&theme=radical)
 
 
 
