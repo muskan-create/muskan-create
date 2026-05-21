@@ -17,9 +17,10 @@ Currently, I’m focused on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-muskan--create-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/muskan-create)
 [![Codolio](https://img.shields.io/badge/Codolio-muskanprajapati__-00C4CC?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codolio.com/profile/muskanprajapati__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourid-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![LeetCode](https://img.shields.io/badge/LeetCode-yourname-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](YOUR_LEETCODE_LINK)
-[![Email](https://img.shields.io/badge/Gmail-yourmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muskan--prajapati01-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muskan-prajapati01/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-muskanprajapati__-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/muskanprajapati__/)
+[![Email](https://img.shields.io/badge/Gmail-muskanprajapati0001-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muskanprajapati0001@gmail.com)
+
 
 
 ## ⚒️ Tech Stack
