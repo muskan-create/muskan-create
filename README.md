@@ -15,18 +15,7 @@ Currently, I’m focused on:
 * Preparing for internships and real-world development opportunities
   ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_ID)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/YOUR_USERNAME)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourgmail@gmail.com)
-
-[![Codolio](https://img.shields.io/badge/Codolio-00C4CC?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codolio.com/profile/muskanprajapati__)
-
-
----
+[GitHub](https://github.com/muskan-create) • [Email](mailto:YOUR_EMAIL@gmail.com) • [LinkedIn](YOUR_LINKEDIN_LINK) • [LeetCode](YOUR_LEETCODE_LINK) • [Codolio](https://codolio.com/profile/muskanprajapati__)
 
 
 ## ⚒️ Tech Stack
