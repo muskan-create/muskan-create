@@ -32,10 +32,14 @@ Currently, I’m focused on:
 
 ## ⚒️ Tech Stack
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,git,github" />
-</p>
+</p> -->
+## Languages and Tools:
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,windows" />
+</p>
 
 
 
