@@ -37,9 +37,93 @@ Currently, I’m focused on:
 </p> -->
 ## Languages and Tools:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,windows" />
-</p>
+</p> --!>
+<h2>Languages and Tools:</h2>
+
+<table>
+  <tr>
+    <th>
+      <font color="#00ff00">Languages</font>
+    </th>
+    <th>
+      <font color="#00ff00">Frameworks</font>
+    </th>
+    <th>
+      <font color="#00ff00">IDEs</font>
+    </th>
+    <th>
+      <font color="#00ff00">Tools</font>
+    </th>
+    <th>
+      <font color="#00ff00">Operating Systems</font>
+    </th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="55" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" />
+      <img src="https://skillicons.dev/icons?i=c" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="55" />
+      <img src="https://skillicons.dev/icons?i=redux" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=idea" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows" width="55" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="55" />
+      <img src="https://skillicons.dev/icons?i=html" width="55" />
+      <img src="https://skillicons.dev/icons?i=css" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring" width="55" />
+      <img src="https://skillicons.dev/icons?i=express" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="55" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" />
+      <img src="https://skillicons.dev/icons?i=ts" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=eclipse" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="55" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="55" />
+    </td>
+  </tr>
+</table>
 
 
 
