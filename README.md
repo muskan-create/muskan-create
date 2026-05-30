@@ -125,9 +125,7 @@ Currently, I’m focused on:
   </tr>
 </table>
 
-## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muskan-create)](https://git.io/streak-stats)
 
 
 
