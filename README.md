@@ -29,17 +29,8 @@ Currently, I’m focused on:
 [![Email](https://img.shields.io/badge/Gmail-muskanprajapati0001-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:muskanprajapati0001@gmail.com)
 
 
-
 ## ⚒️ Tech Stack
-
-<!-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,git,github" />
-</p> -->
-
-
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,windows" />
-</p> --!>
+ 
 <h2>Languages and Tools:</h2>
 
 <table>
@@ -124,13 +115,33 @@ Currently, I’m focused on:
     </td>
   </tr>
 </table>
-
-## 🔗 Featured Projects
+## Featured Projects
 
 | Project | What It Does | Stack |
-| :------ | :----------- | :---- |
-| [Snake Game](https://github.com/muskan-creates/Snake-game) | A classic Snake Game with smooth controls, score tracking, food generation, and game-over detection built using JavaScript. | `HTML` `CSS` `JavaScript` |
-| [Text-To-Speech](https://github.com/muskan-creates/Text-To-Speech) | A web application that converts typed text into speech using the Web Speech API, providing a simple and interactive user experience. | `HTML` `CSS` `JavaScript` |
-| [BMI Calculator](https://github.com/muskan-creates/BMI-calculator) | A Body Mass Index calculator that computes BMI based on user input and displays the corresponding health category instantly. | `HTML` `CSS` `JavaScript` |
-| [Kanban Board](https://github.com/muskan-creates/Kanban-Board) | A Kanban-style task management application with drag-and-drop functionality for organizing tasks across workflow stages. | `HTML` `CSS` `JavaScript` |
-| [Photo & Video Sharing](https://github.com/muskan-creates/Photo-video-sharing) | A FastAPI-based backend application that allows users to upload, manage, and share photos and videos securely. | `Python` `FastAPI` |
+|---|---|---|
+| [Snake Game](https://github.com/muskan-create/Snake-game) | A classic snake game built with HTML, CSS, and JavaScript. | HTML, CSS, JavaScript |
+| [Text-To-Speech](https://github.com/muskan-create/Text-To-Speech) | A text-to-speech web app that converts written text into spoken audio. | JavaScript |
+| [BMI Calculator](https://github.com/muskan-create/BMI-calculator) | A simple BMI calculator to check body mass index using user input. | HTML, CSS, JavaScript |
+| [Kanban Board](https://github.com/muskan-create/Kanban-Board) | A task management board for organizing work into columns. | JavaScript |
+| [Photo Video Sharing](https://github.com/muskan-create/Photo-video-sharing) | A photo and video sharing project based on FastAPI. | Python, FastAPI |
+
+## Certifications
+
+- Joy of Computing Using Python - NPTEL
+- Data Analyst Job Simulation - Deloitte Forage
+- Cybersecurity Analyst Job Simulation - Forage
+- Python for Data Science - IBM
+- Introduction to Database Systems - NPTEL
+- Microsoft Azure AI Essentials Professional Certificate - Microsoft and LinkedIn
+- Career Essentials in Generative AI - Microsoft and LinkedIn
+
+## Achievements
+
+- Completed 365 Days on LeetCode
+- Qualified ICAT with All India Rank 2700
+- Completed Microsoft Interview & Toolkit Program on Unstop
+- Achieved 100 Days Coding Streak on CodeChef
+- Solved 1000+ problems on CodeChef
+- Earned Diamond Badge on CodeChef 
+
+
