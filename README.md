@@ -128,14 +128,11 @@ Currently, I’m focused on:
 
 | Project | What It Does | Stack |
 |---|---|---|
-| [Snake Game](https://github.com/muskan-create/Snake-game) | A classic snake game built for the browser. | `HTML` `CSS` `JavaScript` |
-| [Text-To-Speech](https://github.com/muskan-create/Text-To-Speech) | A text-to-speech web app that converts written text into spoken audio. | `JavaScript` |
-| [BMI Calculator](https://github.com/muskan-create/BMI-calculator) | A simple BMI calculator to check body mass index using user input. | `HTML` `CSS` `JavaScript` |
-| [Kanban Board](https://github.com/muskan-create/Kanban-Board) | A task management board for organizing work into columns. | `JavaScript` |
-| [Photo Video Sharing](https://github.com/muskan-create/Photo-video-sharing) | A photo and video sharing project based on FastAPI. | `Python` `FastAPI` |
-
-
-
+| [Text-To-Speech](https://github.com/muskan-create/Text-To-Speech) | A text-to-speech web app that converts written text into spoken audio. | JavaScript |
+| [BMI Calculator](https://github.com/muskan-create/BMI-calculator) | A simple BMI calculator to check body mass index using user input. | HTML, CSS, JavaScript |
+| [Photo Video Sharing](https://github.com/muskan-create/Photo-video-sharing) | A photo and video sharing project based on FastAPI. | Python, FastAPI |
+| [Kanban Board](https://github.com/muskan-create/Kanban-Board) | A task management board for organizing work into columns. | JavaScript |
+| [Snake Game](https://github.com/muskan-create/Snake-game) | A classic snake game built with HTML, CSS, and JavaScript. | HTML, CSS, JavaScript |
 
 
 
