@@ -124,7 +124,6 @@ Currently, I’m focused on:
 | [BMI Calculator](https://github.com/muskan-create/BMI-calculator) | A simple BMI calculator to check body mass index using user input. | HTML, CSS, JavaScript |
 | [Kanban Board](https://github.com/muskan-create/Kanban-Board) | A task management board for organizing work into columns. | JavaScript |
 | [Photo Video Sharing](https://github.com/muskan-create/Photo-video-sharing) | A photo and video sharing project based on FastAPI. | Python, FastAPI |
-
 ## Certifications
 
 - Java Certification - GUVI
@@ -136,7 +135,6 @@ Currently, I’m focused on:
 - Introduction to Database Systems - NPTEL
 - Microsoft Azure AI Essentials Professional Certificate - Microsoft and LinkedIn
 - Career Essentials in Generative AI - Microsoft and LinkedIn
-
 ## Achievements
 
 - Completed 365 Days on LeetCode
@@ -148,7 +146,6 @@ Currently, I’m focused on:
 - Achieved 100 Days Coding Streak on CodeChef
 - Solved 1000+ problems on CodeChef
 - Earned Diamond Badge on CodeChef
-
   ## Experience & Workshops
 
 - Completed Web Development Internship at Pinnacle Labs
