@@ -124,26 +124,13 @@ Currently, I’m focused on:
     </td>
   </tr>
 </table>
-## Featured Projects
 
-- **[Snake Game](https://github.com/muskan-create/Snake-game)**  
-  ➜ Classic snake game built with HTML, CSS, and JavaScript.  
-  `HTML` `CSS` `JavaScript`
+## 📌 Featured Projects
 
-- **[Text-To-Speech](https://github.com/muskan-create/Text-To-Speech)**  
-  ➜ Text-to-speech web app that converts written text into spoken audio.  
-  `JavaScript`
-
-- **[BMI Calculator](https://github.com/muskan-create/BMI-calculator)**  
-  ➜ Simple BMI calculator to check body mass index using user input.  
-  `HTML` `CSS` `JavaScript`
-
-- **[Kanban Board](https://github.com/muskan-create/Kanban-Board)**  
-  ➜ Task management board for organizing work into columns.  
-  `JavaScript`
-
-- **[Photo Video Sharing](https://github.com/muskan-create/Photo-video-sharing)**  
-  ➜ Photo and video sharing project based on FastAPI.  
-  `Python` `FastAPI`
-
-
+| Project | What It Does | Stack |
+|---------|--------------|-------|
+| **[🐍 Snake Game](https://github.com/muskan-creates/Snake-game)** | A classic Snake Game with smooth controls, score tracking, food generation, and game-over detection built using JavaScript. | `HTML` `CSS` `JavaScript` |
+| **[🔊 Text-To-Speech](https://github.com/muskan-creates/Text-To-Speech)** | A web application that converts typed text into speech using the Web Speech API, providing a simple and interactive user experience. | `HTML` `CSS` `JavaScript` |
+| **[⚖️ BMI Calculator](https://github.com/muskan-creates/BMI-calculator)** | A Body Mass Index calculator that computes BMI based on user input and displays the corresponding health category instantly. | `HTML` `CSS` `JavaScript` |
+| **[📋 Kanban Board](https://github.com/muskan-creates/Kanban-Board)** | A Kanban-style task management application with drag-and-drop functionality for organizing tasks across workflow stages. | `HTML` `CSS` `JavaScript` |
+| **[📸 Photo & Video Sharing](https://github.com/muskan-creates/Photo-video-sharing)** | A FastAPI-based backend application that allows users to upload, manage, and share photos and videos securely. | `Python` `FastAPI` |
