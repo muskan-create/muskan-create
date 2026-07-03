@@ -127,27 +127,113 @@ Currently, I’m focused on:
 | [Photo Video Sharing](https://github.com/muskan-create/Photo-video-sharing) | A photo and video sharing project based on FastAPI. | Python, FastAPI |
 ## Certifications
 
-- Java Certification - GUVI
-- AI and Data Scientist Certification of Achievement - OneRoadMap
-- Joy of Computing Using Python - NPTEL
-- Data Analyst Job Simulation - Deloitte Forage
-- Cybersecurity Analyst Job Simulation - Forage
-- Python for Data Science - IBM
-- Introduction to Database Systems - NPTEL
-- Microsoft Azure AI Essentials Professional Certificate - Microsoft and LinkedIn
-- Career Essentials in Generative AI - Microsoft and LinkedIn
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Provider</th>
+  </tr>
+  <tr>
+    <td>Java Certification</td>
+    <td><img src="https://img.shields.io/badge/GUVI-00A86B?style=for-the-badge&logo=googleclassroom&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>AI and Data Scientist Certification of Achievement</td>
+    <td><img src="https://img.shields.io/badge/OneRoadMap-7B2CBF?style=for-the-badge&logo=roadmapdotsh&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Joy of Computing Using Python</td>
+    <td><img src="https://img.shields.io/badge/NPTEL-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Data Analyst Job Simulation</td>
+    <td><img src="https://img.shields.io/badge/Deloitte_Forage-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Cybersecurity Analyst Job Simulation</td>
+    <td><img src="https://img.shields.io/badge/Forage-0052CC?style=for-the-badge&logo=securityscorecard&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Python for Data Science</td>
+    <td><img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Introduction to Database Systems</td>
+    <td><img src="https://img.shields.io/badge/NPTEL-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Microsoft Azure AI Essentials Professional Certificate</td>
+    <td><img src="https://img.shields.io/badge/Microsoft_LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Career Essentials in Generative AI</td>
+    <td><img src="https://img.shields.io/badge/Microsoft_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
+  </tr>
+</table>
 ## Achievements
-- Completed 365 Days on LeetCode
-- Unlocked 12-Month LeetCode DCC Streak
-- Completed LeetCode 75 Challenge
-- Qualified ICAT with All India Rank 2700
-- Cleared Round 1 of Naukri Campus Young Turk Program
-- Cleared first technical round at Code-O-Fiesta, Maharana Pratap Engineering College
-- Achieved 100 Days Coding Streak on CodeChef
-- Solved 1000+ problems on CodeChef
-- Earned Diamond Badge on CodeChef
-  ## Experience & Workshops
-- Completed Web Development Internship at Pinnacle Labs
-- Completed Web Development Internship at CodSoft
-- Completed Full Stack Web Development Workshop at Softpro India Computer Technologies Pvt. Ltd.
-- Completed Microsoft Interview & Toolkit Program on Unstop
+
+<table>
+  <tr>
+    <th>Achievement</th>
+    <th>Platform / Event</th>
+  </tr>
+  <tr>
+    <td>Completed 365 Days on LeetCode</td>
+    <td><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td>Unlocked 12-Month DCC Streak</td>
+    <td><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td>Completed LeetCode 75 Challenge</td>
+    <td><img src="https://img.shields.io/badge/LeetCode_75-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td>Qualified ICAT with All India Rank 2700</td>
+    <td><img src="https://img.shields.io/badge/ICAT-A020F0?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td>Cleared Round 1 of Young Turk Program</td>
+    <td><img src="https://img.shields.io/badge/Naukri_Campus-275DF5?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td>Cleared first technical round at Code-O-Fiesta</td>
+    <td><img src="https://img.shields.io/badge/Code--O--Fiesta-FF4D6D?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td>Achieved 100 Days Coding Streak</td>
+    <td><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td>Solved 1000+ problems and earned Diamond Badge</td>
+    <td><img src="https://img.shields.io/badge/CodeChef_Diamond-00B4D8?style=for-the-badge&logo=codechef&logoColor=white" /></td>
+  </tr>
+</table>
+## Experience & Workshops
+
+<table>
+  <tr>
+    <th>Experience</th>
+    <th>Organization</th>
+  </tr>
+  <tr>
+    <td>Web Development Internship</td>
+    <td><img src="https://img.shields.io/badge/Pinnacle_Labs-6C63FF?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td>Web Development Internship</td>
+    <td><img src="https://img.shields.io/badge/CodSoft-FF7A00?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td>Full Stack Web Development Workshop</td>
+    <td><img src="https://img.shields.io/badge/Softpro_India-009688?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td>Microsoft Interview & Toolkit Program</td>
+    <td><img src="https://img.shields.io/badge/Unstop-1F6FEB?style=for-the-badge" /></td>
+  </tr>
+</table>
+
+
+
+ 
