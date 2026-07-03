@@ -169,6 +169,7 @@ Currently, I’m focused on:
     <td><img src="https://img.shields.io/badge/Microsoft_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
   </tr>
 </table>
+
 ## Achievements
 
 <table>
@@ -209,6 +210,7 @@ Currently, I’m focused on:
     <td><img src="https://img.shields.io/badge/CodeChef_Diamond-00B4D8?style=for-the-badge&logo=codechef&logoColor=white" /></td>
   </tr>
 </table>
+
 ## Experience & Workshops
 
 <table>
@@ -233,6 +235,7 @@ Currently, I’m focused on:
     <td><img src="https://img.shields.io/badge/Unstop-1F6FEB?style=for-the-badge" /></td>
   </tr>
 </table>
+
 
 
 
