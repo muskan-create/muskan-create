@@ -136,7 +136,6 @@ Currently, I’m focused on:
 - Microsoft Azure AI Essentials Professional Certificate - Microsoft and LinkedIn
 - Career Essentials in Generative AI - Microsoft and LinkedIn
 ## Achievements
-
 - Completed 365 Days on LeetCode
 - Unlocked 12-Month LeetCode DCC Streak
 - Completed LeetCode 75 Challenge
@@ -147,7 +146,6 @@ Currently, I’m focused on:
 - Solved 1000+ problems on CodeChef
 - Earned Diamond Badge on CodeChef
   ## Experience & Workshops
-
 - Completed Web Development Internship at Pinnacle Labs
 - Completed Web Development Internship at CodSoft
 - Completed Full Stack Web Development Workshop at Softpro India Computer Technologies Pvt. Ltd.
