@@ -115,6 +115,7 @@ Currently, I’m focused on:
     </td>
   </tr>
 </table>
+
 ## Featured Projects
 
 | Project | What It Does | Stack |
