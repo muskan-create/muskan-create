@@ -236,6 +236,31 @@ Currently, I’m focused on:
   </tr>
 </table>
 
+## GitHub Status
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muskan-create&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    height="170"
+    alt="Muskan's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=muskan-create&theme=radical&hide_border=true" 
+    height="170"
+    alt="Muskan's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=muskan-create&theme=react-dark&hide_border=true&area=true" 
+    alt="Muskan's Contribution Graph"
+  />
+</p>
+
 
 
 
