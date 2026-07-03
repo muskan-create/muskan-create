@@ -127,6 +127,8 @@ Currently, I’m focused on:
 
 ## Certifications
 
+- Java Certification - GUVI
+- AI and Data Scientist Certification of Achievement - OneRoadMap
 - Joy of Computing Using Python - NPTEL
 - Data Analyst Job Simulation - Deloitte Forage
 - Cybersecurity Analyst Job Simulation - Forage
@@ -138,10 +140,18 @@ Currently, I’m focused on:
 ## Achievements
 
 - Completed 365 Days on LeetCode
+- Unlocked 12-Month LeetCode DCC Streak
+- Completed LeetCode 75 Challenge
 - Qualified ICAT with All India Rank 2700
-- Completed Microsoft Interview & Toolkit Program on Unstop
+- Cleared Round 1 of Naukri Campus Young Turk Program
+- Cleared first technical round at Code-O-Fiesta, Maharana Pratap Engineering College
 - Achieved 100 Days Coding Streak on CodeChef
 - Solved 1000+ problems on CodeChef
-- Earned Diamond Badge on CodeChef 
+- Earned Diamond Badge on CodeChef
 
+  ## Experience & Workshops
 
+- Completed Web Development Internship at Pinnacle Labs
+- Completed Web Development Internship at CodSoft
+- Completed Full Stack Web Development Workshop at Softpro India Computer Technologies Pvt. Ltd.
+- Completed Microsoft Interview & Toolkit Program on Unstop
