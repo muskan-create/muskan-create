@@ -11,7 +11,7 @@
 
 ##  About Me
 
-I’m a Computer Science Engineering student with a strong interest in technology, problem-solving, and continuous learning. I enjoy transforming ideas into real-world projects and exploring how software can create meaningful impact.
+I’m a Computer Science Engineering student with a strong interest in technology, problem-solving,  continuous learning. I enjoy transforming ideas into real-world projects and exploring how software can create meaningful impact.
 
 Currently, I’m focused on:
 
