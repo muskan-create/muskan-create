@@ -261,6 +261,18 @@ Currently, I’m focused on:
   />
 </p>
 
+## Popular Repositories
+
+| Repository | Description | Tech |
+|---|---|---|
+| [DSA-Cpp](https://github.com/muskan-create/DSA-Cpp) | DSA and LeetCode solutions in C++. | `C++` `DSA` `LeetCode` |
+| [Snake Game](https://github.com/muskan-create/Snake-game) | Classic Snake Game built with HTML, CSS, and JavaScript. | `HTML` `CSS` `JavaScript` |
+| [Text-To-Speech](https://github.com/muskan-create/Text-To-Speech) | Text-to-speech web app built with JavaScript. | `JavaScript` |
+| [BMI Calculator](https://github.com/muskan-create/BMI-calculator) | Simple BMI calculator using HTML, CSS, and JavaScript. | `HTML` `CSS` `JavaScript` |
+| [Kanban Board](https://github.com/muskan-create/Kanban-Board) | Task management Kanban board built with JavaScript. | `JavaScript` |
+| [Photo Video Sharing](https://github.com/muskan-create/Photo-video-sharing) | Photo and video sharing app based on FastAPI. | `Python` `FastAPI` |
+
+
 
 
 
