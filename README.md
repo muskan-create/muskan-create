@@ -120,6 +120,7 @@ Currently, I’m focused on:
 
 | Project | What It Does | Stack |
 |---|---|---|
+| [CareerPilot](https://github.com/muskan-create/CareerPilot) | A full-stack career guidance platform that helps students track skills, analyze resumes, practice DSA, prepare for interviews, discover job opportunities, and monitor career progress. | React, Vite, Node.js, Express, MongoDB, REST API, JWT, AI API |
 | [Snake Game](https://github.com/muskan-create/Snake-game) | A classic snake game built with HTML, CSS, and JavaScript. | HTML, CSS, JavaScript |
 | [Text-To-Speech](https://github.com/muskan-create/Text-To-Speech) | A text-to-speech web app that converts written text into spoken audio. | JavaScript |
 | [BMI Calculator](https://github.com/muskan-create/BMI-calculator) | A simple BMI calculator to check body mass index using user input. | HTML, CSS, JavaScript |
