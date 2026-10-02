@@ -249,8 +249,9 @@ Currently, I’m focused on:
 
 ## Popular Repositories
 
-| Repository | Description | Tech |
+| **Repository** | **Description** | **Tech** |
 |---|---|---|
+| [CareerPilot](https://github.com/muskan-create/CareerPilot) | Full-stack career guidance platform with resume analysis, skills tracking, DSA practice, AI mock interviews, job recommendations, and progress tracking. | `React` `Vite` `Node.js` `Express` `MongoDB` `JWT` `REST API` |
 | [DSA-Cpp](https://github.com/muskan-create/DSA-Cpp) | DSA and LeetCode solutions in C++. | `C++` `DSA` `LeetCode` |
 | [Snake Game](https://github.com/muskan-create/Snake-game) | Classic Snake Game built with HTML, CSS, and JavaScript. | `HTML` `CSS` `JavaScript` |
 | [Text-To-Speech](https://github.com/muskan-create/Text-To-Speech) | Text-to-speech web app built with JavaScript. | `JavaScript` |
