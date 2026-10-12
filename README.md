@@ -1,6 +1,21 @@
 # Hi , I'm Muskan Prajapati
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C96F7&width=435&lines=B+tech+CS+(data+science);Currently+learning+Data+Structures+%26+Algorithms+in+C%2B%2B;Passionate+about+Web+Development+and+Open+Source;Frontend+%26+MERN+Stack+projects;Improving+problem-solving+skills;Always+learning+and+building+new+projects)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff6b6b,35:feca57,70:48dbfb,100:5f27cd&text=Muskan%20Prajapati&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn" alt="Muskan Prajapati banner" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Development;Artificial+Intelligence+%26+Data+Science;Problem+Solving+%26+DSA" alt="Typing intro" />
+</p>
+
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff6b6b,35:feca57,70:48dbfb,100:5f27cd&text=Muskan%20Prajapati&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20%7C%20Undergraduate&descAlignY=58&animation=fadeIn" alt="Muskan Prajapati banner" /> -->
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Development;Artificial+Intelligence+%26+Data+Science;Problem+Solving+%26+DSA" alt="Typing intro" />
+</p> -->
+
+
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
