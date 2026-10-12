@@ -2,9 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff6b6b,35:feca57,70:48dbfb,100:5f27cd&text=Muskan%20Prajapati&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn" alt="Muskan Prajapati banner" />
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Development;Artificial+Intelligence+%26+Data+Science;Problem+Solving+%26+DSA" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;Building+Projects+with+React+%26+Node.js;Exploring+AI+%26+Machine+Learning;Passionate+About+Problem+Solving;Learning+DSA+with+C%2B%2B;Turning+Ideas+Into+Reality" alt="Typing intro" />
 </p>
+
+
 
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff6b6b,35:feca57,70:48dbfb,100:5f27cd&text=Muskan%20Prajapati&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20%7C%20Undergraduate&descAlignY=58&animation=fadeIn" alt="Muskan Prajapati banner" /> -->
